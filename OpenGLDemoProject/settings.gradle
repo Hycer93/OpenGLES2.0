@@ -1,0 +1,2 @@
+rootProject.name='OpenGLDemoProject'
+include ':YC_OpenGLESLibs', ':OpenGlEsDemo'
